@@ -1,1 +1,1 @@
-<img src="../octocat.png"/>
+
