@@ -1,4 +1,4 @@
-
+Join Our Team => <a href="https://github.com/Huniko-Team/community/issues/new?assignees=&labels=&template=please-invite-me-to-the-organization.md&title=Please+invite+me+to+the+organization">Invite Link</a>
 
 <p align='center'>Join Here ! - <a href="https://twist.com/j/27ce51017369621478c13757c6658388">Team Channel</a></p>
 
