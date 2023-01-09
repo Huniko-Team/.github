@@ -8,10 +8,6 @@
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=huniko-team&style=for-the-badge&logo=GitHub"/></a>
 </p>
 <hr>
-<h3 align="center">
-  <br>Huniko Team<br><br>
-</h3>
-<hr>
 
 <b>Join Our Team => <a href="https://github.com/Huniko-Team/community/issues/new?assignees=&labels=&template=please-invite-me-to-the-organization.md&title=Please+invite+me+to+the+organization">Invite Link</a></b>
 
@@ -23,6 +19,5 @@ Huniko Team's Manager Github Profile Link => <a href="https://github.com/cutesqu
 
 ![Screenshot 2023-01-10 002551](https://user-images.githubusercontent.com/71299022/211331048-d2df7d99-a126-4e9d-8e21-3a4a176c8a82.png)
 
-<hr>
 <p align='right'>Open source community of developers for learning and building projects</p>
 <hr>
