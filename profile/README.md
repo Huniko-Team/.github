@@ -8,12 +8,4 @@
 <b>Join Our Team => <a href="https://github.com/Huniko-Team/community/issues/new?assignees=&labels=%E2%9C%89%EF%B8%8F+github-invitation&template=invitation.yml&title=Please+invite+me+to+the+Huniko+team">Huniko-Team's Invite Link</a></b>
 
 ![Screenshot 2022-07-21 150557](https://user-images.githubusercontent.com/71299022/180209954-f0d109e4-85d6-493b-8360-44a5b5d42c4e.jpg)
-
-<hr>
-
-Huniko Team's Manager Github Profile Link => <a href="https://github.com/cutesquirrel519">Web & Mobile Specialist</a>
-
-![Screenshot 2023-01-10 002551](https://user-images.githubusercontent.com/71299022/211331048-d2df7d99-a126-4e9d-8e21-3a4a176c8a82.png)
-
-<p align='right'>Open source community of developers for learning and building projects</p>
 <hr>
